@@ -1,1 +1,1 @@
-## merge.md
+# Merging branches

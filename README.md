@@ -1,13 +1,14 @@
-## Edu - git practises
+# Git practises and tips
 
 > motivation ...
 
-### Table of content
+## Table of content
 
-- [orientation in the tree](tree-orientation.md)
-- [hooks](hooks.md)
-- [merging](merge.md)
-- [rebase](rebase.md)
-- [conflicts](conflicts.md)
-- [bisect](bisect.md)
-- [reflog](reflog.md)
+- [Configuration](configuration.md)
+- [Orientation in the tree](tree-orientation.md)
+- [Merging](merge.md)
+- [Rebase](rebase.md)
+- [Conflicts](conflicts.md)
+- [Bisect](bisect.md)
+- [Reflog](reflog.md)
+- [Cheat sheet](cheat-sheet.md)
